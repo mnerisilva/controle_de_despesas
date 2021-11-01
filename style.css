@@ -150,3 +150,10 @@ input[type="number"] {
 .transactions li:hover .delete-btn {
   opacity: 1;
 }
+
+.moneyValue {
+  width: 75px;
+  text-align: right;
+  display: flex;
+  justify-content: space-between;
+}

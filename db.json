@@ -1,0 +1,35 @@
+{
+  "transacoes": [
+    {
+      "id": 1,
+      "name": "Bolo de brigadeiro",
+      "amount": -20
+    },
+    {
+      "id": 2,
+      "name": "Salário",
+      "amount": 300
+    },
+    {
+      "id": 3,
+      "name": "Torta de frango",
+      "amount": -10
+    },
+    {
+      "id": 4,
+      "name": "Bolo de brigadeiro",
+      "amount": -150
+    }
+  ],
+  "tipo-operacao": [
+    {
+      "id": 1,
+      "name": "crédito"
+    },
+    {
+      "id": 2,
+      "name": "débito"
+    }
+  ],
+  "empresa": { "empresa": "Nane Contabilidade" }
+}
